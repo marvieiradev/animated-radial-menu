@@ -7,3 +7,5 @@ Um menu radial animado em formato octogonal, no qual ao clicar no botão "+" exi
 ## Informações
 
 Projeto desenvolvido utilizando apenas HTML, CSS e JavaScript.
+
+<img src="screenshot.jpg"/>
